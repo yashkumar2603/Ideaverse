@@ -1,0 +1,3 @@
+Public and Private keys ->
+- Solana just makes the keys from the mnemonics/seed phrase and then give it to the user, no intermediate processing is needed.
+- Ethereum however, uses a bit of intermediate processing, it generates a 64-bit string like Solana but then hashes it down to a 32 bit string, using the Keccak-256 algorithm, then takes the output and uses the last 20bytes from it to be used as the keys.

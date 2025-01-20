@@ -1,0 +1,2 @@
+[From 0 to Production - The Modern React Tutorial (RSCs, Next.js, Shadui, Drizzle, TS and more) - YouTube](https://www.youtube.com/watch?v=d5x0JCZbAJs)
+Watch this and make notes for the latest stuff in ReactJS

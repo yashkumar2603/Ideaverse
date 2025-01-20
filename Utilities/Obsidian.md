@@ -1,0 +1,16 @@
+Todo - 
+- [I] Idea `I`
+- [!] Important `!`
+- [>] research `>`
+- [<] calendar `<`
+- [-] cancel    `-`
+- [?] Question `?`
+- [*] star `*`
+- [n] note `n`
+- [l] location `l`
+- [i] info `i`
+- [S] Money `S`
+- [p] tip `p`
+- [b] bookmark `b` 
+- ["] quote `"`
+- [x] normal `anything`

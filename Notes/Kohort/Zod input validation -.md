@@ -1,0 +1,2 @@
+[Take your development skills from 0 to 100 and join the 100xdevs community](https://app.100xdevs.com/courses/14/492/495?quality=1080)
+From 1:11:00 watch this for Zod, super easy, just a couple lines of code, similar to typescript wala things but see once, when needed.
