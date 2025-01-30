@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4909208b3cf0c851",
+            "id": "14395c31b6331604",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,59 +22,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/DB-Postgres-Prisma/Prisma.md",
+                "file": "Notes/Golang/General and index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prisma"
+              "title": "General and index"
             }
           },
           {
-            "id": "a30d9895fe056369",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 3,
-              "stack": [
-                {
-                  "title": "Some new concepts -",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CompetiPro/Some new concepts -.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Some new concepts -\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "General Help",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CompetiPro/General Help.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"General Help\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Some new concepts -",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CompetiPro/Some new concepts -.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Some new concepts -\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/DB-Postgres-Prisma/Postgres+SQL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Postgres+SQL"
-            }
-          },
-          {
-            "id": "ea382f4792ba9cc9",
+            "id": "709446cd56d90644",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -88,41 +46,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/FastAPI.md",
+                "file": "Notes/Input Out -.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FastAPI"
-            }
-          },
-          {
-            "id": "68b4af87b799ef40",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Microservices using FastAPI.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Microservices using FastAPI"
+              "title": "Input Out -"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -325,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Microservices using FastAPI.md",
+                "file": "Notes/Input Out -.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +269,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Microservices using FastAPI"
+              "title": "Backlinks for Input Out -"
             }
           },
           {
@@ -385,13 +319,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68b4af87b799ef40",
+  "active": "709446cd56d90644",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Notes/FastAPI.md",
-    "Notes/Microservices using FastAPI.md",
+    "Notes/Golang/General and index.md",
+    "Notes/Input Out -.md",
+    "Assets/Pasted image 20250128185309.png",
+    "Assets/Pasted image 20250128184805.png",
+    "Notes/Resume.md",
+    "Notes/Golang",
+    "Notes/FastAPI/Microservices using FastAPI.md",
+    "Notes/FastAPI",
+    "Notes/FastAPI/FastAPI.md",
     "Notes/DB-Postgres-Prisma/Postgres+SQL.md",
     "CompetiPro/Some new concepts -.md",
     "CompetiPro/General Help.md",
@@ -405,7 +346,6 @@
     "System Design/codeforces clone.md",
     "Assets/Pasted image 20241225033910.png",
     "System Design/Blockchain or any role needs.md",
-    "Notes/Resume.md",
     "Assets/Pasted image 20241217134317.png",
     "Notes/Final GSoC Orgs.md",
     "GSoC.md",
@@ -421,21 +361,15 @@
     "normal nvim wiki/basic-mappings.md",
     "Notes/React/Custom Hooks -.md",
     "Assets/Pasted image 20241212161723.png",
-    "Assets/Pasted image 20241212161719.png",
-    "Assets/Pasted image 20241212003915.png",
     "Typescript",
     "Notes/React/useRef.md",
     "Notes/React/Single page applications.md",
-    "Notes/React/UseEffect.md",
-    "Notes/React/react reference notes.md",
     "Notes/React",
     "Notes/DevOps + Project Knowledge",
     "System Design",
     "Web3/Full_web3 roadmap.excalidraw",
     "Game-Dev",
     "Assets/Tree Tutorial Finished.blend",
-    "Assets/painterly_cloud_default.blend",
-    "piecesdb.json",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
